@@ -1,0 +1,15 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "creating a sampe json module",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
